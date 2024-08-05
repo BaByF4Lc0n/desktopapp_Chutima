@@ -25,6 +25,7 @@ Partial Class main
         Me.bt_cutgrade = New System.Windows.Forms.Button()
         Me.bt_sum = New System.Windows.Forms.Button()
         Me.bt_end = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'bt_cutgrade
@@ -54,11 +55,21 @@ Partial Class main
         Me.bt_end.Text = "จบการทำงาน"
         Me.bt_end.UseVisualStyleBackColor = True
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(81, 101)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(119, 23)
+        Me.Button1.TabIndex = 3
+        Me.Button1.Text = "ลงทะเบียน"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 261)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.bt_end)
         Me.Controls.Add(Me.bt_sum)
         Me.Controls.Add(Me.bt_cutgrade)
@@ -71,5 +82,5 @@ Partial Class main
     Friend WithEvents bt_cutgrade As System.Windows.Forms.Button
     Friend WithEvents bt_sum As System.Windows.Forms.Button
     Friend WithEvents bt_end As System.Windows.Forms.Button
-
+    Friend WithEvents Button1 As Button
 End Class

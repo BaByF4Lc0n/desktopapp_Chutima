@@ -44,3 +44,18 @@ C:\Users\rosva\Downloads\Chutima - Copy(1)\Chutima - Copy\Chutima - Copy\Chutima
 C:\Users\rosva\Downloads\Chutima - Copy(1)\Chutima - Copy\Chutima - Copy\Chutima\bin\Debug\Chutima.exe
 C:\Users\rosva\Downloads\Chutima - Copy(1)\Chutima - Copy\Chutima - Copy\Chutima\bin\Debug\Chutima.pdb
 C:\Users\rosva\Downloads\Chutima - Copy(1)\Chutima - Copy\Chutima - Copy\Chutima\bin\Debug\Chutima.xml
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\bin\Debug\Chutima.exe.config
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\bin\Debug\Chutima.exe
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\bin\Debug\Chutima.pdb
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\bin\Debug\Chutima.xml
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.vbproj.AssemblyReference.cache
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.cut.resources
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.main.resources
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.Resources.resources
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.register.resources
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.sum.resources
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.vbproj.GenerateResource.cache
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.vbproj.CoreCompileInputs.cache
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.exe
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.xml
+D:\Repository GITHUB\desktopapp_Chutima\Chutima - Copy\Chutima\obj\x86\Debug\Chutima.pdb
