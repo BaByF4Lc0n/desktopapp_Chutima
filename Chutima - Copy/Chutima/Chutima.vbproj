@@ -93,6 +93,11 @@
     <Compile Include="register.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="stdDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>stdDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="sum.Designer.vb">
       <DependentUpon>sum.vb</DependentUpon>
     </Compile>
@@ -157,6 +162,22 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <None Include="stdDataSet.xsc">
+      <DependentUpon>stdDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="stdDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>stdDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="stdDataSet.xss">
+      <DependentUpon>stdDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="std.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
